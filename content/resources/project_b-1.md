@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information about a problem on fracture of a single
   crystal of silicon for the final project.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/344ca361ed85307e84ad8f9887b77555_project_b.pdf
+file: /media/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/344ca361ed85307e84ad8f9887b77555_project_b.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: project_b.pdf
 uid: 344ca361-ed85-307e-84ad-8f9887b77555
