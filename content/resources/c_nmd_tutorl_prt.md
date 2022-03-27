@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9cc6a576-bbd5-7165-7826-4e90b5b2eb8f
 resourcetype: Document
 title: c_nmd_tutorl_prt.pdf
 uid: 42801b67-4a7a-b3d5-2e13-4f511140bc41

@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 90f60c06-d578-ff04-ac25-c2799d5bf7d9
 resourcetype: Image
 title: bending_load.jpg
 uid: b204751d-8c73-dbe8-ef0c-5fd16ea340c6

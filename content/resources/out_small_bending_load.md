@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 90f60c06-d578-ff04-ac25-c2799d5bf7d9
 resourcetype: Other
 title: out_small_bending_load.dcd
 uid: a3975ff0-3fdb-b16e-5bc9-d0d1f4526203

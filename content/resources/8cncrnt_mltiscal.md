@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5d354388-c1ca-31a0-7796-65b7cbefabd5
 resourcetype: Document
 title: 8cncrnt_mltiscal.pdf
 uid: 34bbd983-7a8d-6a12-e008-8a9220ff04ff

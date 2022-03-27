@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5d354388-c1ca-31a0-7796-65b7cbefabd5
 resourcetype: Document
 title: 08cmdf_notes.pdf
 uid: 9b14fdb6-73a8-059d-aacf-22d31cd08d5f
