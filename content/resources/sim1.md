@@ -4,7 +4,7 @@ description: 'This resource contains simulation results for the course projects:
   - tensile deformation 0.002 rate (data file for force-displacement plot) (DAT).
   NOTE: Order of columns: Displacement (in Angstrom), force (in pN). This applies
   to all .dat files.'
-file: /media/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/497d53a5ffc994b15148dcacf3277333_sim1.dat
+file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/497d53a5ffc994b15148dcacf3277333_sim1.dat
 file_type: text/plain
 learning_resource_types:
 - Projects
@@ -16,3 +16,5 @@ resourcetype: Other
 title: sim1.dat
 uid: 497d53a5-ffc9-94b1-5148-dcacf3277333
 ---
+This resource contains simulation results for the course projects: NAMD - tensile deformation 0.002 rate (data file for force-displacement plot) (DAT). NOTE: Order of columns: Displacement (in Angstrom), force (in pN). This applies to all .dat files.
+

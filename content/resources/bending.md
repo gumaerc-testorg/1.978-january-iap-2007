@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains simulation results for the course projects: NAMD
   - bending deformation (data file for force-displacement plot) (DAT).'
-file: /media/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/1236a4ba5bd44751570fd75163b7161e_bending.dat
+file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/1236a4ba5bd44751570fd75163b7161e_bending.dat
 file_type: text/plain
 learning_resource_types:
 - Projects
@@ -14,3 +14,5 @@ resourcetype: Other
 title: bending.dat
 uid: 1236a4ba-5bd4-4751-570f-d75163b7161e
 ---
+This resource contains simulation results for the course projects: NAMD - bending deformation (data file for force-displacement plot) (DAT).
+

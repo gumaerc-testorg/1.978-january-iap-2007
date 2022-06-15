@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains simulation results for the course projects: Initial
   fix.pdb file (specify fixed atoms) (PBD).'
-file: /media/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/8c6507348e0a9d767759171147ab00f9_fix.pdb
+file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/8c6507348e0a9d767759171147ab00f9_fix.pdb
 file_type: text/plain
 learning_resource_types:
 - Projects
@@ -14,3 +14,5 @@ resourcetype: Other
 title: fix.pdb
 uid: 8c650734-8e0a-9d76-7759-171147ab00f9
 ---
+This resource contains simulation results for the course projects: Initial fix.pdb file (specify fixed atoms) (PBD).
+

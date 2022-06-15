@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains simulation results for the course projects: Structure
   file (PSF).'
-file: /media/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/78777e544d70b1324024f830da16a607_out.psf
+file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/78777e544d70b1324024f830da16a607_out.psf
 file_type: text/plain
 learning_resource_types:
 - Projects
@@ -14,3 +14,5 @@ resourcetype: Other
 title: out.psf
 uid: 78777e54-4d70-b132-4024-f830da16a607
 ---
+This resource contains simulation results for the course projects: Structure file (PSF).
+
