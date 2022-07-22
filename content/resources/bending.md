@@ -6,6 +6,7 @@ file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techn
 file_type: text/plain
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: bending.dat
 uid: 1236a4ba-5bd4-4751-570f-d75163b7161e
 ---
 This resource contains simulation results for the course projects: NAMD - bending deformation (data file for force-displacement plot) (DAT).
-

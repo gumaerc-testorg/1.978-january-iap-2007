@@ -7,6 +7,7 @@ file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techn
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Final Project on molecular studies of three different systems, including (i) a nanowire, (ii) fracture of a single crystal of silicon, and (iii) deformation and unfolding of a protein.
-

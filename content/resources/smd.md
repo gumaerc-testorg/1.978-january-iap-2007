@@ -6,6 +6,7 @@ file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techn
 file_type: text/plain
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: smd.pdb
 uid: a5f590e4-585a-046c-a393-abdf67f8c4a5
 ---
 This resource contains simulation results for the course projects: Initial smd.pdb file (specify atoms that are being pulled) (PDB).
-

@@ -7,6 +7,7 @@ file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techn
 file_type: text/plain
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: geometry_start.pdb
 uid: c5afb4f1-770c-b9a2-4b1e-56921736daf6
 ---
 This resource contains simulation results for the course projects: Initial structure (PDB) This is the initial structure (obtained from Protein Data Bank; after processing).
-

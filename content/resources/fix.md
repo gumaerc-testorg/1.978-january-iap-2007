@@ -6,6 +6,7 @@ file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techn
 file_type: text/plain
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: fix.pdb
 uid: 8c650734-8e0a-9d76-7759-171147ab00f9
 ---
 This resource contains simulation results for the course projects: Initial fix.pdb file (specify fixed atoms) (PBD).
-

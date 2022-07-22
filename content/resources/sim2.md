@@ -7,6 +7,7 @@ file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techn
 file_type: text/plain
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: sim2.dat
 uid: 2b4e680e-0d89-c17e-97f2-4a68277f1864
 ---
 NAMD - tensile deformation 0.001 rate (data file for force-displacement plot) (DAT). NOTE: Order of columns: Displacement (in Angstrom), force (in pN). This applies to all .dat files.
-
