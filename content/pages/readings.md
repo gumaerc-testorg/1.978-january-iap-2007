@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by lecture session and
+  topic.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 9cc6a576-bbd5-7165-7826-4e90b5b2eb8f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -214,7 +223,7 @@ Buehler, Markus J., Jef Dodson, Adri C. T. van Duin, Peter Meulbroek, William A.
 
 ### Final project Part C
 
-NAMD Tutorial by Markus Buehler ([PDF]({{< baseurl >}}/resources/c_nmd_tutorl_prt))
+NAMD Tutorial by Markus Buehler ({{% resource_link 42801b67-4a7a-b3d5-2e13-4f511140bc41 "PDF" %}})
 
 
 {{< tdclose >}}
