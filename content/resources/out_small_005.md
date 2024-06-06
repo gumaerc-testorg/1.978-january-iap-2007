@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains simulation results for the course projects: NAMD
   - tensile deformation 0.0005 rate (DCD).'
 file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/a2aa26918504797ef418424f2d03b12a_out_small_005.dcd
+file_size: 13145848
 file_type: application/octet-stream
 learning_resource_types:
 - Projects

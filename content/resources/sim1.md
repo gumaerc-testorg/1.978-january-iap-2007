@@ -5,6 +5,7 @@ description: 'This resource contains simulation results for the course projects:
   NOTE: Order of columns: Displacement (in Angstrom), force (in pN). This applies
   to all .dat files.'
 file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/497d53a5ffc994b15148dcacf3277333_sim1.dat
+file_size: 2424
 file_type: text/plain
 learning_resource_types:
 - Projects

@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions for Problem Set 1.
 file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/30b6b4c95f49f42ef600906c4268cdad_ps1_solution.pdf
+file_size: 70685
 file_type: application/pdf
 learning_resource_types:
 - Assignments
