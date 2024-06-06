@@ -6,6 +6,7 @@ description: 'This resource contains simulation results for the course projects:
   time step etc. is the same in all examples, and equal to the example script. You
   may directly load this file into VMD and carry out the analysis.'
 file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/4d999063a4641d75afde5a941b448dcd_xrunmodeishort.xyz
+file_size: 86273
 file_type: text/plain
 learning_resource_types:
 - Projects
