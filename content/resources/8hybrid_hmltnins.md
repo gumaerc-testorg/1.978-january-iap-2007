@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/5b4dd1fd7e0c2e8528d06928661fc75d_8hybrid_hmltnins.pdf
+file_size: 538767
 file_type: application/pdf
 learning_resource_types:
 - Assignments
