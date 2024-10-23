@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture slides on elasticity in biological materials: entropic versus
   energetic contributions.'
-file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/803ef474697ee0f539288fe28d04f296_lec06.pdf
+file: /ol-ocw-studio-app/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/803ef474697ee0f539288fe28d04f296_lec06.pdf
 file_size: 2135210
 file_type: application/pdf
 learning_resource_types:
