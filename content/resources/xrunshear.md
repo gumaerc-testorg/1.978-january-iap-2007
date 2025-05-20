@@ -4,7 +4,7 @@ description: 'This resource contains simulation results for the course projects:
   - xyz file - mode II, shear (XYZ). This .xyz file shows a sequence of 2,000 steps
   under shear loading. Frequency of snapshot writing, time step etc. is the same in
   all examples, and equal to the example script.'
-file: /ol-ocw-studio-app/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/3539024b09107b5093ba423ff45100f5_xrunshear.xyz
+file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/3539024b09107b5093ba423ff45100f5_xrunshear.xyz
 file_size: 38325
 file_type: text/plain
 learning_resource_types:
