@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains simulation results for the course projects: NAMD
   - Initial geometry for pulling (COOR).'
-file: /ol-ocw-studio-app/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/9f09def6cd304e6869cd12246301ea47_1gk6s.coor
+file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/9f09def6cd304e6869cd12246301ea47_1gk6s.coor
 file_size: 530860
 file_type: text/plain
 learning_resource_types:

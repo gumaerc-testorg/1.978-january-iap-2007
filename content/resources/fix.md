@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains simulation results for the course projects: Initial
   fix.pdb file (specify fixed atoms) (PBD).'
-file: /ol-ocw-studio-app/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/8c6507348e0a9d767759171147ab00f9_fix.pdb
+file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/8c6507348e0a9d767759171147ab00f9_fix.pdb
 file_size: 530860
 file_type: text/plain
 learning_resource_types:

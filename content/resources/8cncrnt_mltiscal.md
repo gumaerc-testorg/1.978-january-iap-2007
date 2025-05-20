@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/34bbd9837a8d6a12e0088a9220ff04ff_8cncrnt_mltiscal.pdf
+file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/34bbd9837a8d6a12e0088a9220ff04ff_8cncrnt_mltiscal.pdf
 file_size: 3433487
 file_type: application/pdf
 learning_resource_types:

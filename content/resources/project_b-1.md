@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about a problem on fracture of a single
   crystal of silicon for the final project.
-file: /ol-ocw-studio-app/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/344ca361ed85307e84ad8f9887b77555_project_b.pdf
+file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/344ca361ed85307e84ad8f9887b77555_project_b.pdf
 file_size: 70626
 file_type: application/pdf
 learning_resource_types:
