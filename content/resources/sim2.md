@@ -3,7 +3,7 @@ content_type: resource
 description: 'NAMD - tensile deformation 0.001 rate (data file for force-displacement
   plot) (DAT). NOTE: Order of columns: Displacement (in Angstrom), force (in pN).
   This applies to all .dat files.'
-file: /ol-ocw-studio-app/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/2b4e680e0d89c17e97f24a68277f1864_sim2.dat
+file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/2b4e680e0d89c17e97f24a68277f1864_sim2.dat
 file_size: 2424
 file_type: text/plain
 learning_resource_types:
