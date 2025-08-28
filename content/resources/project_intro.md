@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/035c9089080228aadd2ecf48995db487_project_intro.pdf
+file: /ol-ocw-studio-app/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/035c9089080228aadd2ecf48995db487_project_intro.pdf
 file_size: 23059
 file_type: application/pdf
 learning_resource_types:

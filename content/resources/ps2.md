@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem Set 2.
-file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/181227c33a5e1029ceb33659685af9e3_ps2.pdf
+file: /ol-ocw-studio-app/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/181227c33a5e1029ceb33659685af9e3_ps2.pdf
 file_size: 60462
 file_type: application/pdf
 learning_resource_types:
